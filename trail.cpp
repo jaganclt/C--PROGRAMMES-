@@ -1,0 +1,1 @@
+int main() t char greetings[] = "Hello Worldl\n"; printf("string : "); printf("%s", greetings); //print 0th index number printf("Øth index number is : "); printf("%c", greetings[0]); //modify string greetings[0] "': printf("Inmodified string : "); printf("%s", greetings); return 0;
